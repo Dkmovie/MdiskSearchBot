@@ -38,7 +38,7 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By : <a href='https://t.me/R_KOHLI'>R_KOHLI</a></b>
+<a>Made With ❤ By : <a href='https://t.me/R_KOHLI'>RAVI KOHLI</a></b>
 """
 
 
@@ -49,7 +49,7 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By <a href='https://t.me/R_KOHLI'>R_KOHLI</a></b>
+<a>Made With ❤ By <a href='https://t.me/R_KOHLI'>RAVI KOHLI</a></b>
 """
 
 
