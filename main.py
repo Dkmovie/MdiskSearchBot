@@ -30,7 +30,7 @@ async def start_handler(_, event: Message):
                                 reply_markup=InlineKeyboardMarkup([
                                     [InlineKeyboardButton("Our Channel", url="https://t.me/DK_Gru"),
                                      InlineKeyboardButton("backup Channel", url="https://t.me/DK_Area"),
-                                     InlineKeyboardButton("Creator", url="@R_KOHLI")],
+                                     InlineKeyboardButton("Creator", url="https://t.me/R_KOHLI")],
                                     [InlineKeyboardButton("Help", callback_data="Help_msg"),
                                      InlineKeyboardButton("About", callback_data="About_msg")]]))
 
@@ -82,7 +82,7 @@ async def button(bot, cmd: CallbackQuery):
 						InlineKeyboardButton("Join", url="https://t.me/DK_Area")
 					],
 					[
-						InlineKeyboardButton("Creator", url="@R_KOHLI"),
+						InlineKeyboardButton("Creator", url="https://t.me/R_KOHLI"),
 						InlineKeyboardButton("Home", callback_data="gohome")
 					]
 				]
