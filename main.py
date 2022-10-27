@@ -1,4 +1,4 @@
-# (c) @RoyalKrrishna
+# (c) @R_KOHLI
 
 from configs import Config
 from pyrogram import Client, filters, idle
@@ -25,7 +25,7 @@ User = Client(
 
 @Bot.on_message(filters.private & filters.command("start"))
 async def start_handler(_, event: Message):
-	await event.reply_photo("https://telegra.ph/file/165941ae764a56d6d9c89.jpg",
+	await event.reply_photo("https://te.legra.ph/file/6c8038851e2837810ad3d.jpg",
                                 caption=Config.START_MSG.format(event.from_user.mention),
                                 reply_markup=InlineKeyboardMarkup([
                                     [InlineKeyboardButton("Our Channel", url="https://t.me/DK_Gru"),
